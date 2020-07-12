@@ -1,0 +1,3 @@
+- Add printing quota and entire printing section
+- Add a how to help section (CONTRIBUTING.MD)
+- Add how to search section

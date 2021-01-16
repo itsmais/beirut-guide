@@ -10,7 +10,8 @@
 <img  src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"  alt="License MIT">
 </a>
 </p>
-<br> :exclamation: Due to the current health situation, and the unfortunate event of the 4th of August 2020, some of the below services might not be available. Please check before. :exclamation:
+<h4 align="center">
+<br> :exclamation: Due to the current health situation, and the unfortunate event of the 4th of August 2020, some of the below services might not be available. Please check before. :exclamation: </h4>
 
 ## Introduction
 #### This repository is created to help international students residing in Beirut get easier access to all the information they need to make the best possible out of their experience. It is started by an international student as well. _All efforts to collaborate are encouraged_; please feel free to submit a PR.

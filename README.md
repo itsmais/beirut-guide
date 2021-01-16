@@ -97,14 +97,14 @@ This is only applicable if you're living off-campus, since power cuts don't happ
 * :earth_africa: AUB Map: [Interactive version](https://150.aub.edu.lb/places/map), [PDF version](https://www.aub.edu.lb/Documents/map_posters.pdf).
 * :minibus: [Campus shuttle bus schedule](http://www.aub.edu.lb/auxiliary/Documents/Bus%20stops.pdf)
 ### "Serveeces", Taxis and Vans
-__Serveece__: It's a way to carpool; which means you take a car with up to three people. A serveece is 2000 LL, you should first stop and tell the driver about your destination, they might agree and ask you to get in, sometimes they don't; they either drive away or ask you to pay more (2 Serveeces = 4000 LL etc...) It's your choice to either take it or wait and try another one!
+__Serveece__: It's a way to carpool; which means you take a car with up to three people. A "serveece" is 3000 LL, you should first stop and tell the driver about your destination, they might agree and ask you to get in, sometimes they don't; they either drive away or ask you to pay more (2 "serveeces" = 6000 LL etc...) It's your choice to either take it or wait and try another one. It's important to notice that this is not the safest way to move around the city.
 <br>:bulb: _Always make sure you have change before getting in a Serveece; you don't want any of them drivers arguing that they don't have enough change to return it to you._ :bulb:<br><br>
-__Taxi__: You use this option when you do not want to carpool and instead, take a car just for yourself. People usually take Taxis when they're going somewhere far. Note that this option will cost you 10.000 LL or 15.000 LL to say the least (moving inside the city). Always agree on the price before getting in. Note that Taxis and Serveeces have red plates. <br><br>
-__Vans__: Probably the cheapest way to move around the city. It's 1000 LL per ride.
-<br>:bulb: In case you have a bicycle, that's awesome! AUB has free parking spots all around campus, but you're not allowed to bike on campus :bulb: <br>
+__Taxi__: You use this option when you do not want to carpool and instead, take a car just for yourself. People usually take Taxis when they're going somewhere far. Note that this option will cost you 15.000 LL or 20.000 LL to say the least (moving inside the city). Always agree on the price before getting in. Note that taxis and "serveeces" have red plates. <br><br>
+__Vans__: Probably the cheapest way to move around the city. It's 2000 LL per ride.
+<br>:bulb: In case you have a bicycle, that's awesome! AUB has free parking spots all around campus, but you're not allowed to bike on AUB campus :bulb: <br>
 
 ### Going To And From The Airport
-Taking a random taxi from the streets might not be the most financially convenient solution. An [Uber](https://www.uber.com/lb/ar/) from AUB to the airport will cost you $15 if you don't have a promo-code.
+Taking a random taxi from the streets might not be the most financially convenient solution. An [Uber](https://www.uber.com/lb/en/) or [Bolt](https://bolt.eu/en/cities/beirut/) from anywhere in Beirut to the airport is a safer and probably more affordable option.
 
 ## 11. Transportation: Outside Beirut
 The vans (defined above) take you pretty much everywhere outside Beirut. You might also want to consider other fancy bus services like Connexion, in case you're heading to the north.

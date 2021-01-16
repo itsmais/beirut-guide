@@ -10,6 +10,7 @@
 <img  src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"  alt="License MIT">
 </a>
 </p>
+<br> :exclamation: Due to the current health situation, and the unfortunate event of the 4th of August 2020, some of the below services might not be available. Please check before. :exclamation:
 
 ## Introduction
 #### This repository is created to help international students residing in Beirut get easier access to all the information they need to make the best possible out of their experience. It is started by an international student as well. _All efforts to collaborate are encouraged_; please feel free to submit a PR.
@@ -46,9 +47,9 @@
 ---
 ## 1. AUB Course Registration
 :bulb: _Make sure you have your registration PIN ready from your advisor in order not to be late to the registration time; the later you are, the more courses you're likely to miss._ :bulb:
-* 📜 [AUB Catalog - Undergraduate 19 - 20](https://aub.edu.lb/Registrar/Pages/catalogue-undergraduate19-20.aspx)
-* 📜 [AUB Catalog - Graduate 19 - 20](https://aub.edu.lb/Registrar/Pages/catalogue-graduate19-20.aspx)
-* 📜 [AUB Calendar 2019 - 2020](http://www.aub.edu.lb/Registrar/Documents/calendar2019-20.pdf)
+* 📜 [AUB Catalog - Undergraduate 20 - 21](https://aub.edu.lb/Registrar/Pages/catalogue-undergraduate20-21.aspx)
+* 📜 [AUB Catalog - Graduate 20 - 21](https://aub.edu.lb/Registrar/Pages/catalogue-graduate20-21.aspx)
+* 📜 [AUB Calendar 2020 - 2021](https://www.aub.edu.lb/Registrar/Documents/calendar2020-21.pdf)
 * 📜 [AUB GURU Facebook Group: Ask About Professors and Courses](https://www.facebook.com/groups/126553607367124/?ref=group_header)
 * 📜 [RESIS: Schedule Maker](http://resis.org)
 
@@ -67,12 +68,12 @@ Avoid buying a SIM card from any booths at BEY Airport. Go to an official servic
 * :iphone: [Alfa Student Plan](https://www.facebook.com/aub.edu.lb/posts/dear-aub-studentswe-would-like-to-let-you-know-that-aub-students-are-now-able-to/1541334025905768/)
 
 ## 5. Currency: Value, Payment and Exchange
-:heavy_dollar_sign: _$1 = 1500 LL. You can always pay with dollars and expect to get Lebanese liras in return, and vice versa._ :heavy_dollar_sign:
-<br> :exclamation: Due to the current situation, this exchange rate is no longer accurate.:exclamation:
+:heavy_dollar_sign: The official USD to LBP rate is _$1 = 1500 LL but it's no longer the case in the black market. :heavy_dollar_sign:
+* 💰 [Daily exchange rates](https://lirarate.com/)
 <br>On [Hamra main street](https://goo.gl/maps/Zqgik2HYeVM3TGzX6), you can find different exchange shops/kiosks that stay open til 9:00 PM.
 
 ## 6. Apartments Rental and Roommate Search
-:bulb: _When looking for an appartment, ask whether the price includes internet and electricy subscription fees._ :bulb:
+:bulb: _When looking for an appartment, ask whether the price includes water, internet, and electricy/generator subscription fees._ :bulb:
 * :house_with_garden: [Appartments in Beirut: For Renters and Rentees](https://www.facebook.com/groups/beirutapartments/?ref=group_browse_new) 
 
 ## 7. HIP: AUB Insurance, Exemption and Appointment Booking
@@ -160,12 +161,13 @@ Joining a club is one of the best ways to socialize and get to do what you love.
 <br><br>**[⬆ Back to Top](#table-of-contents)**
 
 ## 18. Shopping
+* :shopping_cart: [NokNok: Delivers groceries to your home](https://www.noknok.co/)
 * :shopping_cart: [Co-op: Al Makhazen](https://almakhazen.me/)
 * :shopping_cart: [Spinneys](http://www.spinneys.com/lebanon/home)
 * :shopping_cart: [Carrefour](https://www.carrefourlebanon.com/)
 * :shopping_cart: [Ali Express: Ships to Lebanon (Use Your AUB PO Address)](https://aliexpress.com) <br>
 * :shopping_cart: [OLX: Buy and sell for free anywhere in Lebanon](https://olxliban.com/en/) <br>
-
+* :shopping_cart: [Mojitech: Online technology and computer store](https://mojitech.net/) <br>
 
 ## 19. Post Office Services
 * :mailbox_with_mail: [Sending Mail From Beirut: Liban Post](https://www.libanpost.com/)

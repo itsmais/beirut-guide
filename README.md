@@ -70,7 +70,7 @@ Avoid buying a SIM card from any booths at BEY Airport. Go to an official servic
 ## 5. Currency: Value, Payment and Exchange
 :heavy_dollar_sign: The official USD to LBP rate is _$1 = 1500 LL but it's no longer the case in the black market. :heavy_dollar_sign:
 * 💰 [Daily exchange rates](https://lirarate.com/)
-<br>On [Hamra main street](https://goo.gl/maps/Zqgik2HYeVM3TGzX6), you can find different exchange shops/kiosks that stay open til 9:00 PM.
+* On [Hamra main street](https://goo.gl/maps/Zqgik2HYeVM3TGzX6), you can find different exchange shops/kiosks that stay open til 9:00 PM.
 
 ## 6. Apartments Rental and Roommate Search
 :bulb: _When looking for an appartment, ask whether the price includes water, internet, and electricy/generator subscription fees._ :bulb:
@@ -135,9 +135,9 @@ In addition to the free access you have to AUB's sport facilities, like the gym,
 * :running: [Beirut Marathon](https://www.beirutmarathon.org/)
 
 ## 16. AUB Clubs
-Joining a club is one of the best ways to socialize and get to do what you love. Clubs range from being about music, sports and other hobbies, to having a political affiliation/message; so make sure you know the purpose of the club before joining it.
+Joining a club is one of the best ways to socialize and get to do what you love. Clubs range from being about music, sports and other hobbies, to having a political affiliation/message; so make sure you know the purpose of the club before joining it. Clubs can be found on AUBsis.
 :heavy_dollar_sign: _The price for enrolling in a club on AUBsis can start from $10._ :heavy_dollar_sign: <br>
-* 📜 [List of AUB Clubs 2018-2019](https://www.aub.edu.lb/SAO/activities/Documents/List%20of%20Clubs%202018-2019.pdf)
+* 📜 [List of AUB Clubs fees](https://www.aub.edu.lb/SAO/activities/Documents/Clubs%20Societies%20Membership%20fees.jpg)
 
 ## 17. Fun Activities in Beirut
  meetpus, art gallery visits, mesuems, sight-seeing, beirut cultural trips,  telefrique taking, skiing, etc..

@@ -35,7 +35,7 @@
 ### Things to Do in Beirut and AUB
 13. **[NGO Work/Volunteering/Interning in Beirut](#13-ngo-workvolunteeringinterning-in-beirut)**
 14. **[Food: Restaurants and Food Ordering](#14-food-restaurants-and-food-ordering)**
-15. **[Sports: AUB Varsity Teams](#15-sports-aub-varsity-teams)**
+15. **[Sports: AUB Varsity Teams](#15-sports:-aub-varsity-teams)**
 16. **[AUB Clubs](#16-aub-clubs)**
 17. **[Fun Activities in Beirut](#17-fun-activities-in-beirut)**
 18. **[Shopping](#18-shopping)**

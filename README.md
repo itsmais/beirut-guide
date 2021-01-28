@@ -128,7 +128,7 @@ If you're planning a trip such that the van service mentioned above doesn't serv
 * :fork_and_knife: [Toters](https://www.totersapp.com/)
 * :fork_and_knife: Onlivery app: [Android](https://play.google.com/store/apps/details?id=com.elixir.Onlivery_v3&hl=en) and [iOS](https://apps.apple.com/lb/app/onlivery-online-food-delivery/id555629829).
 
-## 15. Sports: AUB Varsity Teams, Tryouts, and more
+## 15. Sports: AUB Varsity Teams
 In addition to the free access you have to AUB's sport facilities, like the gym, green field and swimming pool, you can always try to join one (or more?) of AUB's varsity teams!
 * :baseball: [AUB Varsity Teams](https://website.aub.edu.lb/sao/sports/athletics/Athletics_Teams/Pages/Athletics_Teams.aspx)
 * :baseball: [AUB University Sports](https://website.aub.edu.lb/sao/sports/Pages/index.aspx)
